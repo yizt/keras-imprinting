@@ -7,7 +7,7 @@
 
 ​     测试过程详见：[cifar10例子.ipynb](cifar10%E4%BE%8B%E5%AD%90.ipynb)
 
-##依赖环境
+## 依赖环境
 
 python 3.6
 tensorflow-1.9.0
